@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_aaac5160d47ecde06fd7de07fc9eb71f5ea247b1\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe6f2e5f89e635fbf03c1ee17fa6c024d63b967f">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f623abe626a447892bb98af11be97479c1bd1c35\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_88caf6463da5047e76380934a74f1ea77ff882e2\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_db367b0322ccae63db34e915ae30cfa55103725b\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_165536712c9a69b05ae0c012b613b97ca8d3351a\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd725f46af6b06226ae294b443c4562f876c9c0">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fa0d31b6f4b2db325c2fdfe1f1c95ae1f1baba0b\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_1a3abbea90cba70a6141d9a9bc2f62104901aa06\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_cd6120fd954018d34e8a53bb01fd737ac591ebec\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_ecef4749b7f639275982a6874859ecae29b70702\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\soft_install\workspace_android\MBEApp2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_d9af8479330438e94d00ad9d60a9ade9ff034152\classes.dex" />
+    </item>
+
+</items>
