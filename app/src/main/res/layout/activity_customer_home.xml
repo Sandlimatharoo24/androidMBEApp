@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/activity_customer_home_linearlayout_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="1"
+        android:orientation="horizontal">
+    <EditText
+        android:id="@+id/activity_customer_home_editText_search"
+        android:layout_width="0dp"
+        android:layout_weight="0.9"
+        android:layout_height="wrap_content"
+       />
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:padding="5dp"
+            android:src="@android:drawable/ic_menu_search"/>
+    </LinearLayout>
+
+    <ListView
+        android:layout_below="@id/activity_customer_home_linearlayout_search"
+        android:layout_above="@+id/activity_customer_home_footer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"
+        android:layout_gravity="center_horizontal" />
+<include
+    android:id="@+id/activity_customer_home_footer"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_alignParentBottom="true"
+        layout="@layout/activity_footer">
+
+</include>
+</RelativeLayout>
