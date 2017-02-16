@@ -8,6 +8,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.mbeapp.customer.CustomerHome;
 import com.mbeapp.customer.CustomerRegisteration;
 
 /**
@@ -42,7 +43,10 @@ public class MBEActivity extends Activity implements View.OnClickListener {
         switch (v.getId())
         {
             case R.id.activity_mbe_customer_submitbutton:
-                Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();
+                Intent intent_customer_home=new Intent(this,CustomerHome.class);
+                startActivity(intent_customer_home);
+                finish();
+                //Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();
                 break;
             case R.id.activity_mbe_vendor_submitbutton:
                 Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();
@@ -50,10 +54,12 @@ public class MBEActivity extends Activity implements View.OnClickListener {
             case R.id.activity_mbe_customer_registerhere:
                 Intent intent_customer_registration=new Intent(this,CustomerRegisteration.class);
                 startActivity(intent_customer_registration);
+                finish();
                 break;
             case R.id.activity_mbe_vendor_registerhere:
                 Intent intent_vendor_registration=new Intent(this,CustomerRegisteration.class);
                 startActivity(intent_vendor_registration);
+                finish();
                 break;
             case R.id.activity_mbe_customer_forgot_password:
                 Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();

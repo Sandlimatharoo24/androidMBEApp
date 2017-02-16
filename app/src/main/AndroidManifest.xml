@@ -35,6 +35,12 @@
             android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"
            >
         </activity>
+        <activity
+            android:name="com.mbeapp.customer.CustomerHome"
+            android:windowSoftInputMode="stateHidden" android:screenOrientation="portrait"
+            >
+        </activity>
+
     </application>
 
 </manifest>

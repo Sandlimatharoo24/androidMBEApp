@@ -2,10 +2,73 @@
 <items version="2" >
 
     <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_b79ac5703d95111486304f46b1b579169a7c1bac\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1b38d87b60f0e35d9ba89276beb13a50e479f75f\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_1a3abbea90cba70a6141d9a9bc2f62104901aa06\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_cf578b94bff815dee6f3eea45600bebfe9ecad13\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_81f0018d39ae4d107690f177415604502f29ad30\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ff0022d0dc61a30f036538ee89388054a9fde5be">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ff8716f23807fdb1bca35b3679787422fa6c7493\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_57d1835172ffa3d5aff84c4262bc984418ce5dea\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_7aaaae2dfadee191927082ec7d4e33e83e7d9682\classes.dex" />
+    </item>
+    <item
+        jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\exploded-aar\com.android.support\design\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.3.0_f8b9afdbab14c1afc131a3754daea9e93a2623bb\classes.dex" />
+    </item>
+    <item
         jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="b6c705fef6d3282c0abd189ee1c7246a52246452">
+        sha1="f9e092df21a14dd532543a2471943e00eeb910ce">
         <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ba3596ace6f603a876b3e055ca8b25f39017eec5\classes.dex" />
     </item>
 
