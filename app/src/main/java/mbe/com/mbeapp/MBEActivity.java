@@ -51,19 +51,23 @@ public class MBEActivity extends Activity implements View.OnClickListener {
             case R.id.activity_mbe_vendor_submitbutton:
                 Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();
                 break;
+
             case R.id.activity_mbe_customer_registerhere:
                 Intent intent_customer_registration=new Intent(this,CustomerRegisteration.class);
                 startActivity(intent_customer_registration);
                 finish();
                 break;
+
             case R.id.activity_mbe_vendor_registerhere:
                 Intent intent_vendor_registration=new Intent(this,CustomerRegisteration.class);
                 startActivity(intent_vendor_registration);
                 finish();
                 break;
+
             case R.id.activity_mbe_customer_forgot_password:
                 Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();
                 break;
+
             case R.id.activity_mbe_vendor_forgotpassword:
                 Toast.makeText(this.getApplicationContext(),"Work in progress",Toast.LENGTH_SHORT).show();
             break;

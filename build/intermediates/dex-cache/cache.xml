@@ -40,7 +40,7 @@
         jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="ff0022d0dc61a30f036538ee89388054a9fde5be">
+        sha1="08bdd1429487ebed689a52d2c553b1885adeb46d">
         <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ff8716f23807fdb1bca35b3679787422fa6c7493\classes.dex" />
     </item>
     <item
@@ -68,7 +68,7 @@
         jar="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.3"
-        sha1="f9e092df21a14dd532543a2471943e00eeb910ce">
+        sha1="e5de7ca3bebbeb9944661d8758873b365ce35f3f">
         <dex dex="D:\soft_install\git_project\androidMBEApp\New\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ba3596ace6f603a876b3e055ca8b25f39017eec5\classes.dex" />
     </item>
 

@@ -8,31 +8,32 @@
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:background="#faa519"
+            android:background="@android:color/white"
             android:orientation="vertical">
 
             <LinearLayout
-                android:layout_width="fill_parent"
+                android:layout_width="match_parent"
                 android:layout_height="48dp"
-                android:background="#e8e8e7"
+                android:background="@color/appcolor_green"
 
-                android:layout_alignParentTop="true">
+                >
 
                 <ImageView android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
+                    android:visibility="gone"
                     android:background="@android:drawable/ic_menu_today"
                     android:layout_marginLeft="10dp"/>
 
 
-                <TextView android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
+                <TextView android:layout_width="match_parent"
+                    android:layout_height="match_parent"
                     android:text="Sign Up"
-                    android:textColor="#2582C5"
+                    android:textColor="@android:color/white"
 
                     android:textSize="18sp"
                     android:textStyle="bold"
 
-                    android:layout_gravity="center"/>
+                    android:gravity="center"/>
 
 
 
@@ -54,17 +55,17 @@
 
             <LinearLayout android:layout_width="fill_parent"
                 android:layout_height="fill_parent"
-                android:layout_marginLeft="16dp"
-                android:layout_marginTop="16dp"
-                android:layout_marginRight="16dp"
-                android:layout_marginBottom="30dp"
+                android:paddingLeft="16dp"
+                android:paddingTop="16dp"
+                android:paddingRight="16dp"
+                android:paddingBottom="30dp"
                 android:orientation="vertical"
-                android:background="@color/colorPrimary"
+                android:background="@android:color/white"
                 >
 
-                <ImageView android:layout_width="60dp"
-                    android:layout_height="60dp"
-                    android:background="@android:drawable/ic_menu_my_calendar"
+                <ImageView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@mipmap/logo"
                     android:layout_marginTop="15dp"
                     android:layout_gravity="center_horizontal"/>
 
@@ -73,12 +74,14 @@
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="First Name"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="30dp"/>
                 <EditText
                     android:id="@+id/activity_customer_registeration_middlename"
                     android:layout_width="fill_parent"
+                    android:textColor="@color/appcolor_green"
                     android:layout_height="40dp"
                     android:hint="Middle Name"
                     android:background="#f3f3f3"
@@ -89,6 +92,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="Last Name"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
@@ -97,6 +101,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="House/Flat No"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
@@ -105,6 +110,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="Building"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
@@ -112,6 +118,7 @@
                     android:id="@+id/activity_customer_registeration_society"
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
+                    android:textColor="@color/appcolor_green"
                     android:hint="Society"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
@@ -121,6 +128,7 @@
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="Area"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
@@ -130,6 +138,7 @@
                     android:layout_height="40dp"
                     android:hint="Pin Code"
                     android:background="#f3f3f3"
+                    android:textColor="@color/appcolor_green"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
                 <EditText
@@ -137,12 +146,14 @@
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="Landmark"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
                 <EditText android:layout_width="fill_parent"
                     android:layout_height="40dp"
                     android:hint="GPS Location"
+                    android:textColor="@color/appcolor_green"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
                     android:layout_marginTop="15dp"/>
@@ -150,6 +161,7 @@
                     android:id="@+id/activity_customer_registeration_email"
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
+                    android:textColor="@color/appcolor_green"
                     android:hint="Email"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
@@ -158,6 +170,7 @@
                     android:id="@+id/activity_customer_registeration_mobile"
                     android:layout_width="fill_parent"
                     android:layout_height="40dp"
+                    android:textColor="@color/appcolor_green"
                     android:hint="mobile"
                     android:background="#f3f3f3"
                     android:paddingLeft="5dp"
@@ -165,6 +178,7 @@
                 <EditText
                     android:id="@+id/activity_customer_registeration_alternatemobile"
                     android:layout_width="fill_parent"
+                    android:textColor="@color/appcolor_green"
                     android:layout_height="40dp"
                     android:hint="Alternate Mobile"
                     android:background="#f3f3f3"
@@ -177,7 +191,7 @@
                     android:layout_marginTop="16dp"
                     android:text="submit"
                     android:textColor="#fff"
-                    android:background="@android:drawable/btn_default"/>
+                    android:background="@color/appcolor_green"/>
 
             </LinearLayout>
 
